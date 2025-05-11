@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/endribaku/Documents/Epoka/Second Semester/Paradigms/Text-Based-RPG-Battle-Simulator/main'
+relocations:     []
+...
